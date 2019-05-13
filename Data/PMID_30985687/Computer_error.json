@@ -1,5 +1,23 @@
-{sentence: "There was no improvement in renal function seen, and so arteriovenous fistula surgery and regular hemodialysis were performed.", 
-term: arteriovenous fistula,
-machine: negated,
-human: postive
+[
+{
+	"Id" : 1,
+	"sentence": "There was no improvement in renal function seen, and so arteriovenous fistula surgery and regular hemodialysis were performed.", 
+	"term": "arteriovenous fistula",
+	"machine": "negated",
+	"human": "postive"
+},
+{
+	"Id" : 2,
+	"sentence": "Patients with Down syndrome (DS) have a higher incidence of nonneurogenic neurogenic bladder (NNB) than do normal subjects.", 
+	"term": "neurogenic bladder",
+	"machine": "postive",
+	"human": "unrelated"
+},
+{
+	"Id" : 3,
+	"sentence": "Renal failure may occur frequently in NNB patients.",
+	"term": "renal failure",
+	"machine": "positive",
+	"human": "unrelated"
 }
+]
