@@ -1,0 +1,9 @@
+[
+{
+	"Id" : 1,
+	"sentence": "Most cases of transient abnormal myelopoiesis (TAM) in neonates with Down syndrome (DS) resolve spontaneously; however, DS-TAM neonates with hydrops fetalis (HF) show poor clinical outcomes.", 
+	"term": "hydrops fetalis",
+	"machine": "positive",
+	"human": "unrelated"
+}
+]
