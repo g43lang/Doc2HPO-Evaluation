@@ -1,0 +1,23 @@
+[
+{
+	"Id" : 1,
+	"sentence": "Cerebral sinus venous thrombosis (CSVT) is a rare complication of acute mastoiditis with a declining incidence in the post-antibiotic era. In the adult population its incidence ranges from three to four cases per million.", 
+	"term": "venous thrombosis",
+	"machine": "positive",
+	"human": "unrelated"
+},
+{
+	"Id" : 2,
+	"sentence": "Cerebral sinus venous thrombosis (CSVT) is a rare complication of acute mastoiditis with a declining incidence in the post-antibiotic era. In the adult population its incidence ranges from three to four cases per million.",
+	"term": "mastoiditis",
+	"machine": "positive",
+	"human": "unrelated"
+},
+{
+	"Id" : 3,
+	"sentence": "This case highlights the need to be vigilant in patients with acute mastoiditis for the above clinical syndrome in order to promptly diagnose this rare complication and avoid life-threatening consequences.",
+	"term": "mastoiditis",
+	"machine": "positive",
+	"human": "unrelated"
+}
+]
