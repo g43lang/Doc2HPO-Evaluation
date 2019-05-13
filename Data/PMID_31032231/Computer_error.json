@@ -1,0 +1,11 @@
+[
+{
+	"Id" : 1,
+	"sentence": "These tumors can harbor the BRAF mutation p.V600E, targetable by the specific inhibitor Vemurafenib.", 
+	"term": "tumors",
+	"machine": "positive",
+	"human": "unrelated"
+}
+]
+
+
