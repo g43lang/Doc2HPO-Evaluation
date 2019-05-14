@@ -1,0 +1,1 @@
+another interesting case - abstract is about 3 cases, while they all shared 1 phenotype (spinal fusion), they all had different phenotypes and results. Even though Doc2HPO can't identify the phenotypes for each individual seperately, in this case Doc2HPO correctly identified all terms as true positives.
