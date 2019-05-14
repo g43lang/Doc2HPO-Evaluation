@@ -1,0 +1,16 @@
+[
+{
+	"Id" : 1,
+	"sentence": "The aim was to avoid the partial burden that could be caused by ostheosynthesis, due to the patient's lack of cooperation arising from his mental deterioration and his problems realizing everyday activities.", 
+	"term": "mental deterioration",
+	"machine": "negative",
+	"human": "positive"
+},
+{
+	"Id" : 2,
+	"sentence": "In our experience, one stage surgery for bilateral hip prosthesis is safe and provides good results in patients with severe mental impairment.",
+	"term": "mental impairment",
+	"machine": "positive",
+	"human": "unrelated"
+}
+]
