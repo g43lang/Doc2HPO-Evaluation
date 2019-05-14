@@ -1,0 +1,16 @@
+[
+{
+	"Id" : 1,
+	"sentence": "Moyamoya syndrome predisposes patients to ischemic or hemorrhagic stroke due to progressive narrowing of intracranial vessels with subsequent small-vessel collateralization.", 
+	"term": "hemorrhagic stroke",
+	"machine": "positive",
+	"human": "unrelated"
+},
+{
+	"Id" : 2,
+	"sentence": " Dural arteriovenous fistulae (DAVFs) are most commonly noted after venous sinus or cortical vein thrombosis and are believed to be primarily due to venous hypertension and elevated sinus pressures, although there is no known association with moyamoya syndrome, or with surgical treatment for moyamoya disease (MMD).",
+	"term": "hypertension",
+	"machine": "positive",
+	"human": "unrelated"
+}
+]
