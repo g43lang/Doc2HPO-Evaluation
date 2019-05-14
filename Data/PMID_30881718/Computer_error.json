@@ -1,0 +1,37 @@
+[
+{
+	"Id" : 1,
+	"sentence": "A case of bilateral spontaneous chylothorax with respiratory syncytial virus (RSV) bronchiolitis has never been reported.", 
+	"term": "chylothorax",
+	"machine": "positive",
+	"human": "unrelated"
+},
+{
+	"Id" : 2,
+	"sentence": "A case of bilateral spontaneous chylothorax with respiratory syncytial virus (RSV) bronchiolitis has never been reported.",
+	"term": "bronchiolitis",
+	"machine": "positive",
+	"human": "unrelated"
+},
+{
+	"Id" : 3,
+	"sentence": "Thoracentesis should be considered for patients with Down syndrome and PH associated with congenital heart disease who develop persistent pleural effusion during RSV bronchiolitis to rule out chylothorax.",
+	"term": "pleural effusion",
+	"machine": "positive",
+	"human": "unrelated"
+},
+{
+	"Id" : 4,
+	"sentence": "Thoracentesis should be considered for patients with Down syndrome and PH associated with congenital heart disease who develop persistent pleural effusion during RSV bronchiolitis to rule out chylothorax.",
+	"term": "bronchiolitis",
+	"machine": "positive",
+	"human": "unrelated"
+},
+{
+	"Id" : 5,
+	"sentence": "Thoracentesis should be considered for patients with Down syndrome and PH associated with congenital heart disease who develop persistent pleural effusion during RSV bronchiolitis to rule out chylothorax.",
+	"term": "chylothorax",
+	"machine": "negative",
+	"human": "unrelated"
+}
+]
