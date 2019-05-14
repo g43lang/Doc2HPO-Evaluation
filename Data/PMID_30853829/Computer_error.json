@@ -1,0 +1,37 @@
+[
+{
+	"Id" : 1,
+	"sentence": "Adult-onset leukoencephalopathy with axonal spheroids and pigmented glia (ALSP) is a progressive degenerative white matter disorder caused by mutations in the tyrosine kinase domain of the CSF1R gene.",
+	"term": "leukoencephalopathy",
+	"machine": "positive",
+	"human": "unrelated"
+},
+{
+	"Id" : 2,
+	"sentence": " ALSP is often misdiagnosed as other diseases due to its rarity and various clinical presentations such as Parkinsonism, pyramidal signs, cognitive impairment and/or psychiatric symptoms.",
+	"term": "Parkinsonism",
+	"machine": "positive",
+	"human": "unrelated"
+},
+{
+	"Id" : 3,
+	"sentence": " ALSP is often misdiagnosed as other diseases due to its rarity and various clinical presentations such as Parkinsonism, pyramidal signs, cognitive impairment and/or psychiatric symptoms.",
+	"term": "pyramidal signs",
+	"machine": "positive",
+	"human": "unrelated"
+},
+{
+	"Id" : 4,
+	"sentence": " ALSP is often misdiagnosed as other diseases due to its rarity and various clinical presentations such as Parkinsonism, pyramidal signs, cognitive impairment and/or psychiatric symptoms.",
+	"term": "cognitive impairment",
+	"machine": "positive",
+	"human": "unrelated"
+},
+{
+	"Id" : 5,
+	"sentence": "This example demonstrates that ALSP could be associated with premature ovarian failure.",
+	"term": "premature ovarian failure",
+	"machine": "positive",
+	"human": "unrelated"
+}
+]
