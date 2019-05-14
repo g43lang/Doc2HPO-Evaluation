@@ -1,0 +1,23 @@
+[
+{
+	"Id" : 1,
+	"sentence": "Albeit Shilajit has showed a high degree of safety, it can act as cofactor of anaphylaxis, especially in condition at high risk, such as mast cell activation syndrome (MCAS).",
+	"term": "anaphylaxis",
+	"machine": "positive",
+	"human": "unrelated"
+},
+{
+	"Id" : 2,
+	"sentence": " We reported this case to sensitize practitioners to investigate to the use of complementary and alternative medicine, in case of exercise-induced anaphylaxis (EIAn).",
+	"term": "anaphylaxis",
+	"machine": "positive",
+	"human": "unrelated"
+},
+{
+	"Id" : 3,
+	"sentence": "These substances can be cofactors of anaphylaxis in patients with risk factors.",
+	"term": "anaphylaxis",
+	"machine": "positive",
+	"human": "unrelated"
+}
+]
