@@ -1,0 +1,16 @@
+[
+{
+	"Id" : 1,
+	"sentence": "Toxic leukoencephalopathy associated with heroin inhalation has been extensively described in the literature.",
+	"term": "leukoencephalopathy",
+	"machine": "positive",
+	"human": "unrelated"
+},
+{
+	"Id" : 2,
+	"sentence": "It should, however, be considered in patients with suspected inhaled heroin use due to the relatively favorable prognosis of toxic leukoencephalopathy.",
+	"term": "leukoencephalopathy",
+	"machine": "positive",
+	"human": "unrelated"
+}
+]
