@@ -1,0 +1,9 @@
+[
+{
+	"Id" : 1,
+	"sentence": " This anomaly is invariably associated with an aberrant right subclavian artery (RSCA).",
+	"term": "aberrant right subclavian artery",
+	"machine": "positive",
+	"human": "unrelated"
+}
+]
