@@ -1,0 +1,16 @@
+[
+{
+	"Id" : 1,
+	"sentence": "[Purpose] This case study describes the reacquisition of knee joint function in a patient with Down syndrome after surgery for patellar dislocation using external focus training.",
+	"term": "patellar dislocation",
+	"machine": "positive",
+	"human": "unrelated"
+},
+{
+	"Id" : 2,
+	"sentence": "External focus training was found to be effective for a patient with a low Intelligence Quotient.",
+	"term": "low Intelligence",
+	"machine": "positive",
+	"human": "unrelated"
+}
+]
