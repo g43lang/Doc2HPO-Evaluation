@@ -1,0 +1,9 @@
+[
+{
+	"Id" : 1,
+	"sentence": "We believe in early surgery to improve the formation of structures, especially in patients with gross instabilities and frequent falls.",
+	"term": "frequent falls",
+	"machine": "positive",
+	"human": "unrelated"
+}
+]
