@@ -1,0 +1,30 @@
+[
+{
+	"Id" : 1,
+	"sentence": "Acute pericarditis may occur frequently after viral infections.",
+	"term": "pericarditis",
+	"machine": "positive",
+	"human": "unrelated"
+},
+{
+	"Id" : 2,
+	"sentence": "To our knowledge, influenza B virus infection complicated by pericarditis without myocardial involvement has never been reported.",
+	"term": "pericarditis",
+	"machine": "positive",
+	"human": "unrelated"
+},
+{
+	"Id" : 3,
+	"sentence": "Especially in autumn and winter periods, clinicians should include Influenza B virus infection on differential diagnosis of pericarditis with large pericardial effusion.",
+	"term": "pericarditis",
+	"machine": "positive",
+	"human": "unrelated"
+},
+{
+	"Id" : 4,
+	"sentence": "Especially in autumn and winter periods, clinicians should include Influenza B virus infection on differential diagnosis of pericarditis with large pericardial effusion.",
+	"term": "pericardial effusion",
+	"machine": "positive",
+	"human": "unrelated"
+}
+]
