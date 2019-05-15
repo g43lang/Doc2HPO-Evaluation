@@ -1,0 +1,9 @@
+[
+{
+	"Id" : 1,
+	"sentence": "This case highlights the importance of a thorough history and examination in identifying a rare cause of shoulder and/or back pain.",
+	"term": "back pain",
+	"machine": "positive",
+	"human": "unrelated"
+}
+]
