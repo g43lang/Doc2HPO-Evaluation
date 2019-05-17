@@ -1,0 +1,30 @@
+[
+{
+	"Id" : 1,
+	"sentence": "Simultaneous occurrence of multiple primary melanomas is a rare, however possible phenomenon, and it is believed that older, male, white, Atypical Mole Syndrome carriers (sporadic and familial) are part of the possible risk factors for its occurrence.",
+	"term": "melanomas",
+	"machine": "positive",
+	"human": "unrelated"
+},
+{
+	"Id" : 2,
+	"sentence": "Simultaneous occurrence of multiple primary melanomas is a rare, however possible phenomenon, and it is believed that older, male, white, Atypical Mole Syndrome carriers (sporadic and familial) are part of the possible risk factors for its occurrence.",
+	"term": "Atypical Mole",
+	"machine": "positive",
+	"human": "unrelated"
+},
+{
+	"Id" : 3,
+	"sentence": "In these patients, it is possible to observe involutional changes or (partial/complete) regression of melanocytic lesions, which are likely to be caused by the generation of a spontaneous immune reaction against specific tumour antigens.",
+	"term": "tumour",
+	"machine": "positive",
+	"human": "unrelated"
+},
+{
+	"Id" : 4,
+	"sentence": "The reason for individualising the approach in the case we have described is due to the variability of the recommendations for surgical treatment of melanomas laid down in the AJCC.",
+	"term": "melanomas",
+	"machine": "positive",
+	"human": "unrelated"
+}
+]
