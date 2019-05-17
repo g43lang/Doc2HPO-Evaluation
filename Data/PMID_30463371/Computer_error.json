@@ -1,0 +1,9 @@
+[
+{
+	"Id" : 1,
+	"sentence": "MA occurs as an isolated cerebral angiopathy (so-called moyamoya disease) or in association with various conditions (moyamoya syndromes) including several heritable conditions such as Down syndrome, neurofibromatosis type 1 and other genomic defects.",
+	"term": "neurofibromatosis",
+	"machine": "positive",
+	"human": "unrelated"
+}
+]
