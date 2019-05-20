@@ -1,0 +1,51 @@
+[
+{
+	"Id" : 1,
+	"sentence": "Aplastic anemia is a syndrome involving pancytopenia caused by bone marrow insufficiency.",
+	"term": "Aplastic anemia",
+	"machine": "positive",
+	"human": "unrelated"
+},
+{
+	"Id" : 2,
+	"sentence": "Aplastic anemia is a syndrome involving pancytopenia caused by bone marrow insufficiency.",
+	"term": "pancytopenia",
+	"machine": "positive",
+	"human": "unrelated"
+},
+{
+	"Id" : 3,
+	"sentence": "Pancytopenia increases the surgical risk of bleeding and infection.",
+	"term": "Pancytopenia",
+	"machine": "positive",
+	"human": "unrelated"
+},
+{
+	"Id" : 4,
+	"sentence": "Although the log.EuroSCORE and STS Score were not overly high, because of the presence of pancytopenia, surgical aortic valve replacement was considered too high risk, making her a candidate for TAVI.",
+	"term": "pancytopenia",
+	"machine": "negative",
+	"human": "positive"
+},
+{
+	"Id" : 5,
+	"sentence": "Transcatheter aortic valve implantation (TAVI) is widely performed for aortic stenosis patients at high surgical risk.",
+	"term": "aortic stenosis",
+	"machine": "positive",
+	"human": "unrelated"
+},
+{
+	"Id" : 6,
+	"sentence": "Although patients with severe pancytopenia can be candidates for TAVI, severe pancytopenia may increase the surgical risk even for TAVI.",
+	"term": "pancytopenia",
+	"machine": "positive",
+	"human": "unrelated"
+},
+{
+	"Id" : 7,
+	"sentence": "Although patients with severe pancytopenia can be candidates for TAVI, severe pancytopenia may increase the surgical risk even for TAVI.",
+	"term": "pancytopenia",
+	"machine": "positive",
+	"human": "unrelated"
+}
+]
