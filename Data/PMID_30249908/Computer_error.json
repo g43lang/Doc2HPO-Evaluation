@@ -1,0 +1,23 @@
+[
+{
+	"Id" : 1,
+	"sentence": "Acute myeloid leukemia has a rare subtype in French-American-British classification as M7 or acute megakaryoblastic leukemia.",
+	"term": "leukemia",
+	"machine": "positive",
+	"human": "unrelated"
+},
+{
+	"Id" : 2,
+	"sentence": "Chromosome abnormalities in cases with acute megakaryoblastic leukemia can affect their prognosis.",
+	"term": "leukemia",
+	"machine": "positive",
+	"human": "unrelated"
+},
+{
+	"Id" : 3,
+	"sentence": "The author's suggestion through this case presentation is the necessity of drawing a cytogenetic profile, especially in cases with acute megakaryoblastic leukemia for better treatment strategies.",
+	"term": "leukemia",
+	"machine": "positive",
+	"human": "unrelated"
+}
+]
