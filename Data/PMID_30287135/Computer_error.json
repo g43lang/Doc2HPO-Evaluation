@@ -1,0 +1,9 @@
+[
+{
+	"Id" : 1,
+	"sentence": "It should be considered in patients experiencing inordinate pain, especially if they were found unconscious at the incident scene.",
+	"term": "pain",
+	"machine": "positive",
+	"human": "unrelated"
+}
+]
