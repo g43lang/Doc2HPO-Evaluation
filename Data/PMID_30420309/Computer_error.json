@@ -1,0 +1,23 @@
+[
+{
+	"Id" : 1,
+	"sentence": "These vertebral defects can result in severe instability of the cervical spine, leading to cardiac arrest after only minor whiplash injury.",
+	"term": "cardiac arrest",
+	"machine": "positive",
+	"human": "unrelated"
+},
+{
+	"Id" : 2,
+	"sentence": "Unfamiliarity of providers with this mechanism of cardiac arrest, and the rarity of the syndrome itself, make early recognition very difficult.",
+	"term": "cardiac arrest",
+	"machine": "positive",
+	"human": "unrelated"
+},
+{
+	"Id" : 3,
+	"sentence": "In patients with cardiac arrest of unclear etiology, early consideration of cervical spine immobilization and evaluation can be lifesaving.",
+	"term": "cardiac arrest",
+	"machine": "positive",
+	"human": "unrelated"
+}
+]
