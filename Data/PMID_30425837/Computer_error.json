@@ -1,0 +1,30 @@
+[
+{
+	"Id" : 1,
+	"sentence": "While it is rare to see Ehrlichia as a cause of meningitis, this illness can progress to severe multisystem disease with septic shock, meningoencephalitis or acute respiratory distress syndrome (ARDS).",
+	"term": "meningitis",
+	"machine": "positive",
+	"human": "unrelated"
+},
+{
+	"Id" : 2,
+	"sentence": "While it is rare to see Ehrlichia as a cause of meningitis, this illness can progress to severe multisystem disease with septic shock, meningoencephalitis or acute respiratory distress syndrome (ARDS).",
+	"term": "shock",
+	"machine": "positive",
+	"human": "unrelated"
+},
+{
+	"Id" : 3,
+	"sentence": "While it is rare to see Ehrlichia as a cause of meningitis, this illness can progress to severe multisystem disease with septic shock, meningoencephalitis or acute respiratory distress syndrome (ARDS).",
+	"term": "encephalitis",
+	"machine": "positive",
+	"human": "unrelated"
+},
+{
+	"Id" : 4,
+	"sentence": "While it is rare to see Ehrlichia as a cause of meningitis, this illness can progress to severe multisystem disease with septic shock, meningoencephalitis or acute respiratory distress syndrome (ARDS).",
+	"term": "respiratory distress",
+	"machine": "positive",
+	"human": "unrelated"
+}
+]
