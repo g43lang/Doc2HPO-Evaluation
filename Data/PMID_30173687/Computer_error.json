@@ -1,0 +1,37 @@
+[
+{
+	"Id" : 1,
+	"sentence": "Thiamine-responsive megaloblastic anemia (TRMA) syndrome is an autosomal recessive inherited disorder characterised by a triad of megaloblastic anemia, diabetes mellitus, and sensorineural deafness.",
+	"term": "megaloblastic anemia",
+	"machine": "positive",
+	"human": "unrelated"
+},
+{
+	"Id" : 2,
+	"sentence": "Thiamine-responsive megaloblastic anemia (TRMA) syndrome is an autosomal recessive inherited disorder characterised by a triad of megaloblastic anemia, diabetes mellitus, and sensorineural deafness.",
+	"term": "diabetes mellitus",
+	"machine": "positive",
+	"human": "unrelated"
+},
+{
+	"Id" : 3,
+	"sentence": "Thiamine-responsive megaloblastic anemia (TRMA) syndrome is an autosomal recessive inherited disorder characterised by a triad of megaloblastic anemia, diabetes mellitus, and sensorineural deafness.",
+	"term": "sensorineural deafness",
+	"machine": "positive",
+	"human": "unrelated"
+},
+{
+	"Id" : 4,
+	"sentence": "This case report sensitises the early diagnosis, and treatment with thiamine in children presenting with anemia, diabetes and deafness.",
+	"term": "anemia",
+	"machine": "positive",
+	"human": "unrelated"
+},
+{
+	"Id" : 5,
+	"sentence": "This case report sensitises the early diagnosis, and treatment with thiamine in children presenting with anemia, diabetes and deafness.",
+	"term": "deafness",
+	"machine": "positive",
+	"human": "unrelated"
+}
+]
