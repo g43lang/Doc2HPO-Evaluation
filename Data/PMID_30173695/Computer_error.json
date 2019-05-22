@@ -1,0 +1,51 @@
+[
+{
+	"Id" : 1,
+	"sentence": "Mabry syndrome is the triad of seizures, hyperphosphatasia, and mental disability.",
+	"term": "seizures",
+	"machine": "positive",
+	"human": "unrelated"
+},
+{
+	"Id" : 2,
+	"sentence": "Mabry syndrome is the triad of seizures, hyperphosphatasia, and mental disability.",
+	"term": "hyperphosphatasia",
+	"machine": "positive",
+	"human": "unrelated"
+},
+{
+	"Id" : 3,
+	"sentence": "Besides the usual triad, other manifestations of Mabry syndrome include hypoplasia of distal phalanges, brachytelencepahly, gastrointestinal malformations and constipation, hypertelorism, short nose with a broad nasal bridge and dip, and thin upper lip with down turned corners of the mouth.",
+	"term": "constipation",
+	"machine": "positive",
+	"human": "unrelated"
+},
+{
+	"Id" : 4,
+	"sentence": "Besides the usual triad, other manifestations of Mabry syndrome include hypoplasia of distal phalanges, brachytelencepahly, gastrointestinal malformations and constipation, hypertelorism, short nose with a broad nasal bridge and dip, and thin upper lip with down turned corners of the mouth.",
+	"term": "hypertelorism",
+	"machine": "positive",
+	"human": "unrelated"
+},
+{
+	"Id" : 5,
+	"sentence": "Besides the usual triad, other manifestations of Mabry syndrome include hypoplasia of distal phalanges, brachytelencepahly, gastrointestinal malformations and constipation, hypertelorism, short nose with a broad nasal bridge and dip, and thin upper lip with down turned corners of the mouth.",
+	"term": "short nose",
+	"machine": "positive",
+	"human": "unrelated"
+},
+{
+	"Id" : 6,
+	"sentence": "Besides the usual triad, other manifestations of Mabry syndrome include hypoplasia of distal phalanges, brachytelencepahly, gastrointestinal malformations and constipation, hypertelorism, short nose with a broad nasal bridge and dip, and thin upper lip with down turned corners of the mouth.",
+	"term": "broad nasal bridge",
+	"machine": "positive",
+	"human": "unrelated"
+},
+{
+	"Id" : 7,
+	"sentence": "Besides the usual triad, other manifestations of Mabry syndrome include hypoplasia of distal phalanges, brachytelencepahly, gastrointestinal malformations and constipation, hypertelorism, short nose with a broad nasal bridge and dip, and thin upper lip with down turned corners of the mouth.",
+	"term": "thin upper lip",
+	"machine": "positive",
+	"human": "unrelated"
+}
+]
