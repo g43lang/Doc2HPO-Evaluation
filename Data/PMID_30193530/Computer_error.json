@@ -1,0 +1,9 @@
+[
+{
+	"Id" : 1,
+	"sentence": "Delayed migration of a ductal occluder device into the aorta after transcatheter closure of a patent ductus arteriosus is extremely rare.",
+	"term": "patent ductus arteriosus",
+	"machine": "positive",
+	"human": "unrelated"
+}
+]
