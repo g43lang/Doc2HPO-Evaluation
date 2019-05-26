@@ -1,0 +1,23 @@
+[
+{
+	"Id" : 1,
+	"sentence": "Because she cannot protect herself when she is startled and falls, she has repeatedly bruised her head and face.",
+	"term": "falls",
+	"machine": "negative",
+	"human": "positive"
+},
+{
+	"Id" : 2,
+	"sentence": "HPX patients live with severe anxiety about frequent falls and sometimes suffer serious injury, such as cerebral concussion or bone fracture.",
+	"term": "anxiety",
+	"machine": "positive",
+	"human": "unrelated"
+},
+{
+	"Id" : 3,
+	"sentence": "HPX patients live with severe anxiety about frequent falls and sometimes suffer serious injury, such as cerebral concussion or bone fracture.",
+	"term": "frequent falls",
+	"machine": "positive",
+	"human": "unrelated"
+}
+]
