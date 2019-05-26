@@ -1,0 +1,9 @@
+[
+{
+	"Id" : 1,
+	"sentence": "We may choose the ETT size in reference to an ultrasonographically obtained internal transverse width of the cricoid, stated outer diameter (OD) by the producer, and the actual OD depending on the cuff bulk instead of a tube size calculation in patients with growth retardation.",
+	"term": "growth retardation",
+	"machine": "positive",
+	"human": "unrelated"
+}
+]
