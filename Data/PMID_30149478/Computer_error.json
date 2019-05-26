@@ -1,0 +1,9 @@
+[
+{
+	"Id" : 1,
+	"sentence": "Clinicians should be aware of the increased risk of gallstones in hypothyroid children with DS, even in neonatal age.",
+	"term": "gallstones",
+	"machine": "positive",
+	"human": "unrelated"
+}
+]
