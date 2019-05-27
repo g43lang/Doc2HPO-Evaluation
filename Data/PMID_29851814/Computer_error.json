@@ -1,0 +1,16 @@
+[
+{
+	"Id" : 1,
+	"sentence": "The aim of this study was to report a case of Down syndrome (DS) complicated with bilateral retinal detachment (RD) due to unusual retinal degeneration.",
+	"term": "retinal detachment",
+	"machine": "positive",
+	"human": "unrelated"
+},
+{
+	"Id" : 2,
+	"sentence": "The aim of this study was to report a case of Down syndrome (DS) complicated with bilateral retinal detachment (RD) due to unusual retinal degeneration.",
+	"term": "retinal degeneration",
+	"machine": "positive",
+	"human": "unrelated"
+}
+]
