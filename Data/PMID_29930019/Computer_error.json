@@ -1,0 +1,9 @@
+[
+{
+	"Id" : 1,
+	"sentence": "What is the most likely diagnosis based on the image?A. Lumbar stenosisB. Abdominal aortic aneurysmC. Aortic thrombusD. Aortic dissection.",
+	"term": "Aortic dissection",
+	"machine": "positive",
+	"human": "unrelated"
+}
+]
